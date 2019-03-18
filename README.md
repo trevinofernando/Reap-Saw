@@ -9,7 +9,7 @@ The second role of the serf is that of a reaper. Each reaper will harvest the cr
 vertical parcel of land. No two Reapers’ land parcels overlap. And each parcel stretches from the
 top of the plot of land to the bottom.
 
-![alt text](https://github.com/trevinofernando/Reap-Saw/raw/master/reapNSow.png)
+![alt text](https://github.com/trevinofernando/Reap-Saw/raw/master/img/reapNSow.png)
 
 For each piece of land there is exactly one reaper and one sower that manages it. Additionally,
 each intersection of reaper and sower parcel is equal in area to any other intersection. Due to the
