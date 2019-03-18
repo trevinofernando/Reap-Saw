@@ -48,3 +48,5 @@ There might not be an assignment of crops such that the constraints are all sati
 In the case where no assignment of crops satisfies all the constraints output the word “impossible” (quotes for clarity).
 
 *There will be at most one solution.*
+
+![alt text](https://github.com/trevinofernando/Reap-Saw/raw/master/img/example.png)
