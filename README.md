@@ -11,8 +11,6 @@ top of the plot of land to the bottom.
 
 ![alt text](https://github.com/trevinofernando/Reap-Saw/raw/master/reapNSow.png)
 
-![alt text](https://github.com/trevinofernando/Reap-Saw/reapNSow.png)
-
 For each piece of land there is exactly one reaper and one sower that manages it. Additionally,
 each intersection of reaper and sower parcel is equal in area to any other intersection. Due to the
 size of the plot and the resources of the kingdom not every piece of land will be used to grow
