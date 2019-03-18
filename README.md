@@ -11,7 +11,7 @@ top of the plot of land to the bottom.
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-![alt text](https://github.com/trevinofernando/Reap-Saw/raw/master/Reap-Saw/reapNSow.png)
+![alt text](https://github.com/trevinofernando/Reap-Saw/raw/master/reapNSow.png)
         
       
 
