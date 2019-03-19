@@ -49,4 +49,4 @@ In the case where no assignment of crops satisfies all the constraints output th
 
 *There will be at most one solution.*
 
-![alt text](https://github.com/trevinofernando/Reap-Saw/raw/master/img/example.png)
+![alt text](https://github.com/trevinofernando/ReapNSow/raw/master/img/example.png)
